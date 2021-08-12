@@ -2,8 +2,6 @@
 
 Built with with React.js/Solidity/Web3.js 
 
-Preview: [Mock Charity WebApp](https://trusting-mahavira-8582f4.netlify.com/)
-
 # What's Required
 
 1. Install [MetaMask](https://metamask.io/) into your browser
@@ -18,7 +16,7 @@ enjoy!
 1.  CD into your preferred directory and git clone the project:
 
 ```bash
-$ git clone https://github.com/vinnyhoward/charity-react-solidity.git
+$ git clone https://github.com/bluesky-coder/charity-react-solidity.git
 ```
 
 2. CD into the project and install the dependencies:
